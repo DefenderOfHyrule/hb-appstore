@@ -16,4 +16,7 @@ build_*
 *.dll
 .get
 .toggle_sound
+*.nso
+*.pfs0
+*.nacp
 background.mp3
